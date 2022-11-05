@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257577135532",
+    "project_id": "firestore053",
+    "storage_bucket": "firestore053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257577135532:android:7652230b51cc53622c5e09",
+        "android_client_info": {
+          "package_name": "com.f55121053_tiara.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257577135532-km3m4j86ubkkob9afpnimt7q838s927r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqMdvEEy6D0sPKSWv1uQa519NhxwfgVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257577135532-km3m4j86ubkkob9afpnimt7q838s927r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
